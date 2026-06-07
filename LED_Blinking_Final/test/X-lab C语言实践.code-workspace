@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "D:/桌面（已从C盘移动)/X-lab C语言实践"
+		},
+		{
+			"name": "LED_Flashing",
+			"path": "../../LED_Flashing"
+		},
+		{
+			"name": "LED_Blinking_Final",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
